@@ -1,0 +1,277 @@
+apps/desktop/src/bun/app/menu.ts
+  s_d965ecd07724f7::t_c399e602f15668 8,10,17-19,21-24,26-27,30,34,44,52-56,58,60,63,67,70,75-76,78,80-81,84,88-89,92,99,113,116,122,128,134,139,144,151,158,163,172,174,176-178,180-181,183,189-202,206,209-224,272-286,291-293,297-298,300-301,304-312
+apps/desktop/src/components/command-palette.tsx
+  s_d965ecd07724f7::t_06c587b1ae2841 3,14,32,48,50,53
+apps/desktop/src/components/file-system-tree-view/file-system-tree-view.tsx
+  s_d965ecd07724f7::t_6e30597734ab6f 10,16,48-50,89-94,459,475,477,502-505,508-513,536-542,547-552,555,570-588,599,634,639
+apps/desktop/src/host/i18n-provider.tsx
+  s_d965ecd07724f7::t_2df92c28dfdc48 1-67
+apps/web/src/thread-viewer.tsx
+  s_d965ecd07724f7::t_35d2b2b58cbc2b 10,83,105-107,114,130,143,147-151,155-159,212,217,220,252-254,259,278-280,285
+packages/ui/src/components/thread-playground/examples-menu.tsx
+  s_d965ecd07724f7::t_ba6d3832a17edb 13-14,26-29,35,40,42,47,58,60,62
+packages/ui/src/components/thread-playground/message/message-list-item.tsx
+  s_d965ecd07724f7::t_a12c50a855e41b 30,63,177,182,230-232,283,338-346,352,364-371,381,384,387,393,396
+packages/ui/src/components/thread-playground/misc/title-editor.tsx
+  s_d965ecd07724f7::t_72bba65b27becd 8,15-16,19-41,55,80-84,106,135,141,166-169,182,191,195-197,202,206
+packages/ui/src/components/thread-playground/model/model-params-popover.tsx
+  s_d965ecd07724f7::t_f8983b6a0b674e 41,47-53,56-68,89,98-101,171,192,203,209,219,221,225,235,251,267,279,303,322,327,329,337,364,369-370,381
+packages/ui/src/components/thread-playground/stores/thread-store.ts
+  s_d965ecd07724f7::t_478dabc1a86526 67,91-92,210,213,306-311,360,362,364-365,434-436,452,454-456,756-761,781-786,887-888,905-908,922-923,927,1150-1151
+packages/ui/src/components/thread-playground/variable/prompt-variable-options.ts
+  s_d965ecd07724f7::t_36721c276d0ce6 6-12,15,20-22,27-28,32-44
+packages/ui/src/i18n/messages/en/settings.ts
+  s_d965ecd07724f7::t_54aa170fdbda24 1-336
+packages/ui/src/i18n/messages/en/thread.ts
+  s_d965ecd07724f7::t_b876055b30b41c 1-580
+packages/ui/src/i18n/messages/en/trace.ts
+  s_d965ecd07724f7::t_cdfa380f902e11 1-103
+packages/ui/src/i18n/messages/en/viewer.ts
+  s_d965ecd07724f7::t_4b277e5f3f61df 1-49
+packages/ui/src/i18n/messages/zh/landing.ts
+  s_d965ecd07724f7::t_3d9b6263231d8c 1-99
+packages/ui/src/i18n/messages/zh/thread.ts
+  s_d965ecd07724f7::t_15e26f733587d4 1-555
+packages/ui/src/i18n/messages/zh/viewer.ts
+  s_d965ecd07724f7::t_01f14b4a55201a 1-30
+apps/desktop/src/app/layout.tsx
+  s_d965ecd07724f7::t_9a5a3169bc154e 11,24-29
+apps/desktop/src/app/page.tsx
+  s_d965ecd07724f7::t_f14f307bdaf91d 3,106,117,127,129,209,277,284-303,306,463,606
+apps/desktop/src/bun/app/menu-labels.ts
+  s_d965ecd07724f7::t_9435f238aa9da3 1-169
+apps/desktop/src/bun/app/start-desktop-app.ts
+  s_d965ecd07724f7::t_aad0137a823e9b 18,50,126,137-141
+apps/desktop/src/bun/app/window.ts
+  s_d965ecd07724f7::t_0a43ff66ad918b 12,41,45-46,73
+apps/desktop/src/bun/commands.ts
+  s_d965ecd07724f7::t_342cc4de1771f8 8,94-95
+apps/desktop/src/bun/i18n/language-manager.ts
+  s_d965ecd07724f7::t_4959cdd6b796ac 1-98
+apps/desktop/src/bun/rpc/index.ts
+  s_d965ecd07724f7::t_9f084eb23c46e0 17,20,75,98,358-364
+apps/desktop/src/components/account-status.tsx
+  s_d965ecd07724f7::t_6811ff5c41bf7f 4,38,40,47,54,58,61,79,99,104
+apps/desktop/src/components/file-system-tree-view/node-actions.tsx
+  s_d965ecd07724f7::t_d557fe9c6c2e5c 4,124,126-133,149-151,162-164,177-181,193,207,222,233,241,253,261,271,292-295,299,310,318,324,332,340,351,358
+apps/desktop/src/components/file-system-tree-view/use-file-system-tree.ts
+  s_d965ecd07724f7::t_fb817f07c6c237 10,218,443,530
+apps/desktop/src/components/github-device-dialog.tsx
+  s_d965ecd07724f7::t_6e3cc444b8fe91 3,28,64,66,75,89,96,102,106-108
+apps/desktop/src/components/github-star-reminder.tsx
+  s_d965ecd07724f7::t_52c390240251bd 1,26,75,80,87
+apps/desktop/src/components/onboard-dialog.tsx
+  s_d965ecd07724f7::t_c06737b89230a8 10,45,72,79,123-125,127-128,134,159,167,183,192,203,207,213,289,303,316-317,327,332,334,348,355,358-361,377,382-386,389-393,405-407,421,448,463,470-472,486,500
+apps/desktop/src/components/settings/account-page.tsx
+  s_d965ecd07724f7::t_366424901071d2 3,16,20-21,41,48,51,57-59,61,66,74
+apps/desktop/src/components/settings/api-key-field.tsx
+  s_d965ecd07724f7::t_ba92ab27d9a227 4,33,43,58-61
+apps/desktop/src/components/settings/experimental-page.tsx
+  s_d965ecd07724f7::t_ff57bccab00ede 4,18,28,31,33,39,45,47,53,61-68
+apps/desktop/src/components/settings/general-page.tsx
+  s_d965ecd07724f7::t_87de0a1716feb2 18,114,153-156,160-162,199,217-231,237,240-241,250,309,319,321,325-326,330-331,335-339,347-348,353-356,360-368,376-377,388,402-403,411-414,418-423,429,433-434,442,446-447,457,461-462,471-474,478-486,495
+apps/desktop/src/components/settings/mcp-page.tsx
+  s_d965ecd07724f7::t_541ca8d9ad2884 16,156,179,181,186,243,246,267-276,281,283,299,301,303,319,321,323,330-331,337,340,343,354,357,402,408,439,447,450-452,455,496,503,505-507,516,531,536,547-549,563,566,570,591,594,599,606-609,622,625,630,634,639,642,647,657,660,666,679,694,719,730,748,752,759-761,766,770-773,838-841,844,846-848,855,868,876-888,897,933,947-950,959-962,967-971,974-977,993,1019-1020,1025-1028,1033,1036,1039-1040
+apps/desktop/src/components/settings/model-editor-dialog.tsx
+  s_d965ecd07724f7::t_63bc3e90f189cd 10,114,181,185,187,203-205,209-210,215,223,233,237-241,246,262,266,290,299,308,316-319,333,360,364,367-369
+apps/desktop/src/components/settings/models-page.tsx
+  s_d965ecd07724f7::t_1a4e1b3a18b93c 21,101,123-124,150,166-167,176,180-182,231,272,275-283,293,298,301,308,313,315-316,318,321,324-327,354-356,389,395-397,422-427,445,453-459,474,546,548,587,620-624,627-629,648-650,653-654,660-662,671,689-691,700-703,709-711,718,725,728-733,738,741-743,753-755,759-764,775-777,781-784,791-793,798-800,805,815-817,824,827,838-840,853,861,866-868,891,938,971-973,979-982,988-992,996,999-1001,1017,1020,1052,1058,1062,1064,1086,1089-1091,1107-1109,1117-1119,1133-1135,1143-1150
+apps/desktop/src/components/settings/network-page.tsx
+  s_d965ecd07724f7::t_f08c771ec3f1d2 9,59,67,86,109-111,114-116,124,132,138,148,181,183,186,190-191,196-197,208,214-221,227,230-245,253,256-271,279-281,284-285,292
+apps/desktop/src/components/settings/search-page.tsx
+  s_d965ecd07724f7::t_733c7bc60c7728 8,29,52,54,57,61,64-68,74,81,95,105,115,125-130
+apps/desktop/src/components/settings/settings-dialog.tsx
+  s_d965ecd07724f7::t_fa32e98fe28b15 3,31,35-40,43,60,80-82,85,88
+apps/desktop/src/components/settings/skills-page.tsx
+  s_d965ecd07724f7::t_370b99ba94cc92 6,50,88,90,93,99,101,104,113-115,118,122,127,130-132,168,175,196,219,225,248-249,264,268,276,284-286,300,345,347,351,358,366,373,390-398
+apps/desktop/src/components/share-thread-dialog.tsx
+  s_d965ecd07724f7::t_9cc37f38e2d894 4,62,124-130,133,193,195,201,207,227,238,245,258,265,270,276-279,284,297-299,303,308,310,312-313,325-327,336-343,346,349,351-353
+apps/desktop/src/components/shared-import-provider.tsx
+  s_d965ecd07724f7::t_554fe873d1b013 3,31,53-55,64,81,83,91
+apps/desktop/src/components/start-from-example-dialog.tsx
+  s_d965ecd07724f7::t_183b1962347db7 10,41,47-63,73,76,98,100,113-117
+apps/desktop/src/components/thread-tabs/thread-tab-pane.tsx
+  s_d965ecd07724f7::t_7640f291459459 5,49,71,73-75,78,149,151-153,157
+apps/desktop/src/components/thread-tabs/thread-tabs.tsx
+  s_d965ecd07724f7::t_f128bd451d1614 5,105-113,137,141-144,146,265-267,277-281,305,310,329,335,341-344,352,358,364
+apps/desktop/src/components/thread-tabs/trace-tab-pane.tsx
+  s_d965ecd07724f7::t_440524ce5f1ace 6,38,51,53-55,58,130,132-134,138,142-150,165,174,179,181,183,187,200,204,216-219,222,228
+apps/desktop/src/components/trace-panel/trace-panel.tsx
+  s_d965ecd07724f7::t_e17f0ba7c67672 6,113-126,130,188,190-192,196,207,211,213,219,236-244,250,252,256,258,264,283-291,297,299,309,311,317,396,400,468,472,474,480,507,531,533,544,548,583,586,588-589,607,612,615,631,651,655,660,663,668,672,691,696,700,739,747-748,771,801-802,830,861,863,868-875,894,896-899,907,922,927,953,961,983,1028,1030-1032,1037-1042,1069-1074,1084,1098,1106,1108-1109,1122,1127,1131,1139,1144,1167,1172,1174,1181,1183,1190,1192,1199,1201,1208,1210,1217,1219,1226,1228,1235,1237,1247,1256,1278-1280,1289,1292,1315,1327-1330,1339-1342,1345-1346,1349-1350
+apps/desktop/src/components/update-dialog.tsx
+  s_d965ecd07724f7::t_1f5bd3a96dd883 3-4,26,87-88,114-115,124-125,134-137,140,148-151,154,162-165,169,172,181,186,189
+apps/desktop/src/components/update-indicator.tsx
+  s_d965ecd07724f7::t_eeaee5e3c14ff4 5,28,33,38,47,49,58
+apps/desktop/src/components/update-status-provider.tsx
+  s_d965ecd07724f7::t_75f08fb243b7ec 3,56,63,65,70,74,97,105-107,109,114,147,260,262,274
+apps/desktop/src/components/welcome.tsx
+  s_d965ecd07724f7::t_dd87b8e440f3a2 3,40,70,72,78,82,86,96
+apps/desktop/src/shared/i18n.ts
+  s_d965ecd07724f7::t_4e1534f879f7f1 1-23
+apps/desktop/src/shared/rpc.ts
+  s_d965ecd07724f7::t_c1d87c2fc867c7 26,392-402,431-434
+apps/web/src/landing/app.tsx
+  s_d965ecd07724f7::t_2a22b97be4a284 487-494
+apps/web/src/landing/components/ui/screenshot-carousel.tsx
+  s_d965ecd07724f7::t_dadc6de9bf0af2 24-27,42-45,99,139,145,175,195,200,208
+apps/web/src/landing/lib/i18n.tsx
+  s_d965ecd07724f7::t_71871a02f8926a 2-19,22,25-28,31-37
+apps/web/src/not-found.tsx
+  s_d965ecd07724f7::t_d40f6b95f66c7d 1,13,20,23,26,31
+packages/ui/package.json
+  s_d965ecd07724f7::t_9d0d42f5703095 8
+packages/ui/src/components/code-editor/index.tsx
+  s_d965ecd07724f7::t_b54428ce96633e 16,123,226,229
+packages/ui/src/components/confirm-dialog.tsx
+  s_d965ecd07724f7::t_d9c3b7436cea63 5,21,43,55
+packages/ui/src/components/firecrawl-limit-dialog.tsx
+  s_d965ecd07724f7::t_4689e79d5b8cf0 5,37,42-45
+packages/ui/src/components/preview-dialog.tsx
+  s_d965ecd07724f7::t_df23bfed648b69 6,22,34-35,40,62-66,94-96
+packages/ui/src/components/thread-playground/evaluation-rubric-editor.tsx
+  s_d965ecd07724f7::t_05098c8ec26a2e 28-29,55,126-127,139-141,146,153-155,157,169,186-188,194,203,209,215-217,227,231-240,247-249,253-262,269-271,276-285,316,323,326-328,336-338
+packages/ui/src/components/thread-playground/generate-popover-button.tsx
+  s_d965ecd07724f7::t_f5bb56b583dc82 13-14,25,28-29,60,64,71,88,100
+packages/ui/src/components/thread-playground/message/add-images-menu.tsx
+  s_d965ecd07724f7::t_4e5e5846b11454 15,44,98,107,114,117,121
+packages/ui/src/components/thread-playground/message/image-content-view.tsx
+  s_d965ecd07724f7::t_6e0ab4d9069ef9 10,28,66,85,90,105-107
+packages/ui/src/components/thread-playground/message/message-list-item-header.tsx
+  s_d965ecd07724f7::t_42416ddf4633e6 21,46,67-69,71-72,114,117-122,139,144-146,154,159,194-198,203,227,231,243-247,263-267
+packages/ui/src/components/thread-playground/message/message-list-view.tsx
+  s_d965ecd07724f7::t_667b444f695732 16,38,120
+packages/ui/src/components/thread-playground/message/thinking-view.tsx
+  s_d965ecd07724f7::t_55535b95c7a4fb 7-8,19,39-42
+packages/ui/src/components/thread-playground/message/todo-write-view.tsx
+  s_d965ecd07724f7::t_cb5c63d6b9ce3c 10-11,68,81,95
+packages/ui/src/components/thread-playground/message/token-usage-summary.tsx
+  s_d965ecd07724f7::t_b419ebf15501ae 14-15,32,50-52,67
+packages/ui/src/components/thread-playground/message/tool-call-input-view.tsx
+  s_d965ecd07724f7::t_609f0b178bc11d 19,44-50,55-56,65,69,175,185-199,204-205,207-208,220-225,240-242,277-278,286,293,297,304,313,327-331,336,344,368-373,389,391-397,439,489-495
+packages/ui/src/components/thread-playground/message/tool-call-list-item.tsx
+  s_d965ecd07724f7::t_b5b26060b35f48 33,62,104,108,121-125,131,136,138,140,146,157,180-181,204-206,213-215,270,295,462,559,568-571
+packages/ui/src/components/thread-playground/message/use-tool-call-runner.ts
+  s_d965ecd07724f7::t_b30f9e2855d7ea 7,25,53-56,61
+packages/ui/src/components/thread-playground/misc/skeleton.tsx
+  s_d965ecd07724f7::t_e8daa216aa6429 4-5,11,16,37,45,54
+packages/ui/src/components/thread-playground/model/json-schema-dialog.tsx
+  s_d965ecd07724f7::t_92d725ac936dae 18-19,49,65-67,71-73,88,90,106,108
+packages/ui/src/components/thread-playground/model/model-card.tsx
+  s_d965ecd07724f7::t_c7c5c4635dd116 6,40,43,56,71-73,75,81,85,89,93,97,101
+packages/ui/src/components/thread-playground/model/model-config-editor.tsx
+  s_d965ecd07724f7::t_8c09d3d3c090e6 7,26,61
+packages/ui/src/components/thread-playground/model/model-selector.tsx
+  s_d965ecd07724f7::t_b4195abb9e6f09 22,57,127-128,155,161,165,219
+packages/ui/src/components/thread-playground/prompt/system-prompt-editor.tsx
+  s_d965ecd07724f7::t_5de452a8cda983 9,37,118,122,127-137,152
+packages/ui/src/components/thread-playground/run-evaluation-dialog.tsx
+  s_d965ecd07724f7::t_5bf4b34edc2744 40-41,46-51,54-71,115-116,149,151-161,206-207,211,224,227-229,231,233-234,249,285-289,294,299,332-334,336-337,340,344,347,354-356,360,368,372,378,385-387,407,418-421,425,438-446,452-456,459,462-465
+packages/ui/src/components/thread-playground/run-evaluation-scorecard.tsx
+  s_d965ecd07724f7::t_2fabb54fd5197d 24-25,54,109,111,133-136,140-142,145-148,159-162,175-177,181,185-187,197-200,210-212,219,233-235,254,262,274,278-285,312,316-322,330-334
+packages/ui/src/components/thread-playground/run-history-list-view.tsx
+  s_d965ecd07724f7::t_7655cdc602f149 41-43,48-64,68,191,195,198-200,202-205,208,212,219,223,233,247,252,262-264,266-268,277,288,333-335,351-353,385,414,429,437,458-464,475-480,497,501-506,512,516-521,546,563,594-595,631-633,645,653-655,665-671,679-682,685-689
+packages/ui/src/components/thread-playground/run-trace-view.tsx
+  s_d965ecd07724f7::t_575df020518305 13,25,29,37-38,60
+packages/ui/src/components/thread-playground/thread-playground.tsx
+  s_d965ecd07724f7::t_03c02a494170c2 51-52,143-145,159,199,287,291,298,302,309,314-316,324,328,346-347,358-359,371-373,380,389,398,416,439,447,455
+packages/ui/src/components/thread-playground/tool/built-in-tool-import-dialog.tsx
+  s_d965ecd07724f7::t_441f9531ade883 27-28,40-42,88-99,105,107,110,188,190,200-201,222,228,257-258,305-313
+packages/ui/src/components/thread-playground/tool/mcp-tool-import-popover.tsx
+  s_d965ecd07724f7::t_a3deb96ebebf56 26-27,48,81,83,88,108,110,116,205,207,215,285,292,294,305,319,322,377-385,404-407,409,415
+packages/ui/src/components/thread-playground/tool/tool-editor-dialog.tsx
+  s_d965ecd07724f7::t_86a283d949798f 24,48,118-119,125,147-149,152,158,161,182-185
+packages/ui/src/components/thread-playground/tool/tool-import-sidebar-actions.tsx
+  s_d965ecd07724f7::t_963e4d6d9f8435 14-15,32,46,58,61
+packages/ui/src/components/thread-playground/tool/tool-list-item.tsx
+  s_d965ecd07724f7::t_dd5114bd847bcd 10-11,29,91-98,108,112
+packages/ui/src/components/thread-playground/tool/tool-list-view.tsx
+  s_d965ecd07724f7::t_22ca6f4f9e71f2 24,45,122,133,143,148
+packages/ui/src/components/thread-playground/use-stream-text.ts
+  s_d965ecd07724f7::t_aaedd91d7987c7 16,74,86-88,96,112,166
+packages/ui/src/components/thread-playground/variable/prompt-variable-extension.ts
+  s_d965ecd07724f7::t_9e0fac251d4043 36-47,56-57,260,279-280,306,308-309,317,339-341,406,408-416,419
+packages/ui/src/components/thread-playground/variable/prompt-variables-dialog.tsx
+  s_d965ecd07724f7::t_0d2a4f7ea94089 13,33,42-43
+packages/ui/src/components/thread-playground/variable/prompt-variables-list-view.tsx
+  s_d965ecd07724f7::t_c8439fc8cd457d 27,30-33,63,87,96-99,106,109,170,198,226-228,241-242,245,252,256-257,277-282
+packages/ui/src/components/thread-playground/variable/prompt-variables-panel.tsx
+  s_d965ecd07724f7::t_0b59ea8b16b4c0 51,58,93,165,178,180-181,189,192,242-244,256,293,310,320,341,391,395-396,399,507,511,521,543,596,600,604,614,622-625,631,638,670,683,696,699,703,715,725,733-736,742,748,754-757,763-765,772,776-778,814,818,824,834,844,849,943,991,994-996,1014-1019
+packages/ui/src/components/thread-playground/variable/skill-selection-dialog.tsx
+  s_d965ecd07724f7::t_57120b6b64fa3f 20,43,107,109,119,126-129,137,144,152,175,178
+packages/ui/src/components/thread-playground/variable/use-prompt-variable-extension.ts
+  s_d965ecd07724f7::t_c5453984256e99 12,15-18,54-55,79,111,116-124,135,145-146,148
+packages/ui/src/i18n/index.tsx
+  s_d965ecd07724f7::t_2d4f2484b4801b 1-222
+packages/ui/src/i18n/messages/en/command-meta.ts
+  s_d965ecd07724f7::t_4d18d856268e5e 1-54
+packages/ui/src/i18n/messages/en/command.ts
+  s_d965ecd07724f7::t_9d47a1b2685823 1-11
+packages/ui/src/i18n/messages/en/common.ts
+  s_d965ecd07724f7::t_f1eca8766834ef 1-54
+packages/ui/src/i18n/messages/en/file-tree.ts
+  s_d965ecd07724f7::t_d73bfb99d206b5 1-73
+packages/ui/src/i18n/messages/en/github.ts
+  s_d965ecd07724f7::t_e6b0cacf67b582 1-37
+packages/ui/src/i18n/messages/en/index.ts
+  s_d965ecd07724f7::t_3583f2b1b42837 1-45
+packages/ui/src/i18n/messages/en/landing.ts
+  s_d965ecd07724f7::t_b977ff06cfc29b 1-117
+packages/ui/src/i18n/messages/en/menu.ts
+  s_d965ecd07724f7::t_fe74ce2e6282c8 1-58
+packages/ui/src/i18n/messages/en/onboard.ts
+  s_d965ecd07724f7::t_fa0b07b63ac2fa 1-57
+packages/ui/src/i18n/messages/en/share.ts
+  s_d965ecd07724f7::t_9ffdc7a12539f1 1-47
+packages/ui/src/i18n/messages/en/tabs.ts
+  s_d965ecd07724f7::t_37107ac1f86508 1-91
+packages/ui/src/i18n/messages/en/update.ts
+  s_d965ecd07724f7::t_94bbb0230414b7 1-48
+packages/ui/src/i18n/messages/zh/command-meta.ts
+  s_d965ecd07724f7::t_4f2e67dd762423 1-47
+packages/ui/src/i18n/messages/zh/command.ts
+  s_d965ecd07724f7::t_ad18ac2a10dc70 1-8
+packages/ui/src/i18n/messages/zh/common.ts
+  s_d965ecd07724f7::t_d3ae05641a7c63 1-49
+packages/ui/src/i18n/messages/zh/file-tree.ts
+  s_d965ecd07724f7::t_bfb57437222ff5 1-48
+packages/ui/src/i18n/messages/zh/github.ts
+  s_d965ecd07724f7::t_895174a835c049 1-31
+packages/ui/src/i18n/messages/zh/index.ts
+  s_d965ecd07724f7::t_cbcdb6aa5b5f34 1-40
+packages/ui/src/i18n/messages/zh/menu.ts
+  s_d965ecd07724f7::t_1d9b0855ff94b9 1-53
+packages/ui/src/i18n/messages/zh/onboard.ts
+  s_d965ecd07724f7::t_cadcf4d15ab249 1-52
+packages/ui/src/i18n/messages/zh/settings.ts
+  s_d965ecd07724f7::t_66e42eb2cfd77e 1-316
+packages/ui/src/i18n/messages/zh/share.ts
+  s_d965ecd07724f7::t_676c3ed7bfa429 1-40
+packages/ui/src/i18n/messages/zh/tabs.ts
+  s_d965ecd07724f7::t_52872580e7342b 1-60
+packages/ui/src/i18n/messages/zh/trace.ts
+  s_d965ecd07724f7::t_eaf8b1f9ce2637 1-103
+packages/ui/src/i18n/messages/zh/update.ts
+  s_d965ecd07724f7::t_18b935b7dbb11b 1-41
+packages/ui/src/i18n/user-visible-strings.test.ts
+  s_d965ecd07724f7::t_2345786fd6b43f 1-118
+packages/ui/src/lib/thread-file.ts
+  s_d965ecd07724f7::t_9986dde06335bd 7-18,22,24-25,105-110,117,128,136,144
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "89aab5905f3cec942ecc7c68e30e82911204c5ea",
+  "prompts": {},
+  "sessions": {
+    "s_d965ecd07724f7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3af40f43-4d64-4b3d-a667-2724bc9d7fe7",
+        "model": "unknown"
+      },
+      "human_author": "訾绍飞 <zishaofei@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
